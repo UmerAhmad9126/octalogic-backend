@@ -1,0 +1,114 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "name": "Piano Fundamentals",
+            "description": "Learn the basics of playing the piano, including scales, chords, and simple songs.",
+            "instructor": "Mr. Smith",
+            "instrument": "Piano",
+            "dayOfWeek": "Monday",
+            "numberOfStudents": 10,
+            "price": 150,
+            "status": "Open"
+        },
+        {
+            "id": 2,
+            "name": "Guitar Basics",
+            "description": "Introduction to guitar playing, covering basic chords, strumming, and fingerpicking.",
+            "instructor": "Ms. Johnson",
+            "instrument": "Guitar",
+            "dayOfWeek": "Wednesday",
+            "numberOfStudents": 8,
+            "price": 120,
+            "status": "Open"
+        },
+        {
+            "id": 3,
+            "name": "Violin Masterclass",
+            "description": "An advanced violin course for experienced players looking to refine their skills.",
+            "instructor": "Dr. Brown",
+            "instrument": "Violin",
+            "dayOfWeek": "Friday",
+            "numberOfStudents": 5,
+            "price": 200,
+            "status": "Closed"
+        },
+        {
+            "id": 4,
+            "name": "Singing Workshop",
+            "description": "Develop your vocal abilities with personalized coaching and group exercises.",
+            "instructor": "Ms. Davis",
+            "instrument": "Voice",
+            "dayOfWeek": "Tuesday",
+            "numberOfStudents": 12,
+            "price": 180,
+            "status": "Open"
+        },
+        {
+            "id": 5,
+            "name": "Drumming for Beginners",
+            "description": "Start your drumming journey with basic rhythms and drum kit techniques.",
+            "instructor": "Mr. Wilson",
+            "instrument": "Drums",
+            "dayOfWeek": "Thursday",
+            "numberOfStudents": 6,
+            "price": 140,
+            "status": "Open"
+        },
+        {
+            "id": 6,
+            "name": "Flute for All Ages",
+            "description": "Learn to play the flute, suitable for all age groups.",
+            "instructor": "Ms. Anderson",
+            "instrument": "Flute",
+            "dayOfWeek": "Monday",
+            "numberOfStudents": 7,
+            "price": 160,
+            "status": "Open"
+        },
+        {
+            "id": 7,
+            "name": "Songwriting Workshop",
+            "description": "Explore the art of songwriting and composition.",
+            "instructor": "Mr. Turner",
+            "instrument": "Songwriting",
+            "dayOfWeek": "Wednesday",
+            "numberOfStudents": 10,
+            "price": 175,
+            "status": "Open"
+        },
+        {
+            "id": 8,
+            "name": "Bass Guitar Mastery",
+            "description": "Master the bass guitar with advanced techniques and grooves.",
+            "instructor": "Mr. Jackson",
+            "instrument": "Bass Guitar",
+            "dayOfWeek": "Thursday",
+            "numberOfStudents": 8,
+            "price": 180,
+            "status": "Open"
+        },
+        {
+            "id": 9,
+            "name": "Classical Guitar Classics",
+            "description": "Explore classical guitar music and techniques.",
+            "instructor": "Ms. Garcia",
+            "instrument": "Classical Guitar",
+            "dayOfWeek": "Tuesday",
+            "numberOfStudents": 6,
+            "price": 190,
+            "status": "Open"
+        },
+        {
+            "id": 10,
+            "name": "Advanced Drum Solo",
+            "description": "Take your drumming skills to the next level with intricate solos.",
+            "instructor": "Mr. Patel",
+            "instrument": "Drums",
+            "dayOfWeek": "Friday",
+            "numberOfStudents": 5,
+            "price": 210,
+            "status": "Open"
+        }
+    ]
+}
