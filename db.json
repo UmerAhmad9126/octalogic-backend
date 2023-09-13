@@ -1,114 +1,181 @@
 {
-    "courses": [
-        {
-            "id": 1,
-            "name": "Piano Fundamentals",
-            "description": "Learn the basics of playing the piano, including scales, chords, and simple songs.",
-            "instructor": "Mr. Smith",
-            "instrument": "Piano",
-            "dayOfWeek": "Monday",
-            "numberOfStudents": 10,
-            "price": 150,
-            "status": "Open"
-        },
-        {
-            "id": 2,
-            "name": "Guitar Basics",
-            "description": "Introduction to guitar playing, covering basic chords, strumming, and fingerpicking.",
-            "instructor": "Ms. Johnson",
-            "instrument": "Guitar",
-            "dayOfWeek": "Wednesday",
-            "numberOfStudents": 8,
-            "price": 120,
-            "status": "Open"
-        },
-        {
-            "id": 3,
-            "name": "Violin Masterclass",
-            "description": "An advanced violin course for experienced players looking to refine their skills.",
-            "instructor": "Dr. Brown",
-            "instrument": "Violin",
-            "dayOfWeek": "Friday",
-            "numberOfStudents": 5,
-            "price": 200,
-            "status": "Closed"
-        },
-        {
-            "id": 4,
-            "name": "Singing Workshop",
-            "description": "Develop your vocal abilities with personalized coaching and group exercises.",
-            "instructor": "Ms. Davis",
-            "instrument": "Voice",
-            "dayOfWeek": "Tuesday",
-            "numberOfStudents": 12,
-            "price": 180,
-            "status": "Open"
-        },
-        {
-            "id": 5,
-            "name": "Drumming for Beginners",
-            "description": "Start your drumming journey with basic rhythms and drum kit techniques.",
-            "instructor": "Mr. Wilson",
-            "instrument": "Drums",
-            "dayOfWeek": "Thursday",
-            "numberOfStudents": 6,
-            "price": 140,
-            "status": "Open"
-        },
-        {
-            "id": 6,
-            "name": "Flute for All Ages",
-            "description": "Learn to play the flute, suitable for all age groups.",
-            "instructor": "Ms. Anderson",
-            "instrument": "Flute",
-            "dayOfWeek": "Monday",
-            "numberOfStudents": 7,
-            "price": 160,
-            "status": "Open"
-        },
-        {
-            "id": 7,
-            "name": "Songwriting Workshop",
-            "description": "Explore the art of songwriting and composition.",
-            "instructor": "Mr. Turner",
-            "instrument": "Songwriting",
-            "dayOfWeek": "Wednesday",
-            "numberOfStudents": 10,
-            "price": 175,
-            "status": "Open"
-        },
-        {
-            "id": 8,
-            "name": "Bass Guitar Mastery",
-            "description": "Master the bass guitar with advanced techniques and grooves.",
-            "instructor": "Mr. Jackson",
-            "instrument": "Bass Guitar",
-            "dayOfWeek": "Thursday",
-            "numberOfStudents": 8,
-            "price": 180,
-            "status": "Open"
-        },
-        {
-            "id": 9,
-            "name": "Classical Guitar Classics",
-            "description": "Explore classical guitar music and techniques.",
-            "instructor": "Ms. Garcia",
-            "instrument": "Classical Guitar",
-            "dayOfWeek": "Tuesday",
-            "numberOfStudents": 6,
-            "price": 190,
-            "status": "Open"
-        },
-        {
-            "id": 10,
-            "name": "Advanced Drum Solo",
-            "description": "Take your drumming skills to the next level with intricate solos.",
-            "instructor": "Mr. Patel",
-            "instrument": "Drums",
-            "dayOfWeek": "Friday",
-            "numberOfStudents": 5,
-            "price": 210,
-            "status": "Open"
-        }
-    ]
+  "courses": [
+    {
+      "id": 1,
+      "name": "Piano Fundamentals",
+      "description": "Learn the basics of playing the piano, including scales, chords, and simple songs.",
+      "instructor": "Mr. Smith",
+      "instrument": "Piano",
+      "dayOfWeek": "Monday",
+      "numberOfStudents": 10,
+      "price": 150,
+      "status": "Open"
+    },
+    {
+      "id": 2,
+      "name": "Guitar Basics",
+      "description": "Introduction to guitar playing, covering basic chords, strumming, and fingerpicking.",
+      "instructor": "Ms. Johnson",
+      "instrument": "Guitar",
+      "dayOfWeek": "Wednesday",
+      "numberOfStudents": 8,
+      "price": 120,
+      "status": "Open"
+    },
+    {
+      "id": 3,
+      "name": "Violin Masterclass",
+      "description": "An advanced violin course for experienced players looking to refine their skills.",
+      "instructor": "Dr. Brown",
+      "instrument": "Violin",
+      "dayOfWeek": "Friday",
+      "numberOfStudents": 5,
+      "price": 200,
+      "status": "Closed"
+    },
+    {
+      "id": 4,
+      "name": "Singing Workshop",
+      "description": "Develop your vocal abilities with personalized coaching and group exercises.",
+      "instructor": "Ms. Davis",
+      "instrument": "Voice",
+      "dayOfWeek": "Tuesday",
+      "numberOfStudents": 12,
+      "price": 180,
+      "status": "Open"
+    },
+    {
+      "id": 5,
+      "name": "Drumming for Beginners",
+      "description": "Start your drumming journey with basic rhythms and drum kit techniques.",
+      "instructor": "Mr. Wilson",
+      "instrument": "Drums",
+      "dayOfWeek": "Thursday",
+      "numberOfStudents": 6,
+      "price": 140,
+      "status": "Open"
+    },
+    {
+      "id": 6,
+      "name": "Flute for All Ages",
+      "description": "Learn to play the flute, suitable for all age groups.",
+      "instructor": "Ms. Anderson",
+      "instrument": "Flute",
+      "dayOfWeek": "Monday",
+      "numberOfStudents": 7,
+      "price": 160,
+      "status": "Open"
+    },
+    {
+      "id": 7,
+      "name": "Songwriting Workshop",
+      "description": "Explore the art of songwriting and composition.",
+      "instructor": "Mr. Turner",
+      "instrument": "Songwriting",
+      "dayOfWeek": "Wednesday",
+      "numberOfStudents": 10,
+      "price": 175,
+      "status": "Open"
+    },
+    {
+      "id": 8,
+      "name": "Bass Guitar Mastery",
+      "description": "Master the bass guitar with advanced techniques and grooves.",
+      "instructor": "Mr. Jackson",
+      "instrument": "Bass Guitar",
+      "dayOfWeek": "Thursday",
+      "numberOfStudents": 8,
+      "price": 180,
+      "status": "Open"
+    },
+    {
+      "id": 9,
+      "name": "Classical Guitar Classics",
+      "description": "Explore classical guitar music and techniques.",
+      "instructor": "Ms. Garcia",
+      "instrument": "Classical Guitar",
+      "dayOfWeek": "Tuesday",
+      "numberOfStudents": 6,
+      "price": 190,
+      "status": "Open"
+    },
+    {
+      "id": 10,
+      "name": "Advanced Drum Solo",
+      "description": "Take your drumming skills to the next level with intricate solos.",
+      "instructor": "Mr. Patel",
+      "instrument": "Drums",
+      "dayOfWeek": "Friday",
+      "numberOfStudents": 5,
+      "price": 210,
+      "status": "Open"
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "enrollmentNumber": "ENR001",
+      "registrationNumber": "REG001",
+      "coursePurchased": 1,
+      "totalFees": 1000,
+      "registrationDate": "2023-09-15",
+      "fees": 500,
+      "companyName": "ABC Academy",
+      "enrollmentDate": "2023-09-20"
+    },
+    {
+      "id": 2,
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "enrollmentNumber": "ENR002",
+      "registrationNumber": "REG002",
+      "coursePurchased": 2,
+      "totalFees": 1200,
+      "registrationDate": "2023-09-16",
+      "fees": 600,
+      "companyName": "XYZ Institute",
+      "enrollmentDate": "2023-09-21"
+    },
+    {
+      "id": 3,
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "enrollmentNumber": "ENR003",
+      "registrationNumber": "REG003",
+      "coursePurchased": 3,
+      "totalFees": 800,
+      "registrationDate": "2023-09-17",
+      "fees": 400,
+      "companyName": "Education Hub",
+      "enrollmentDate": "2023-09-22"
+    },
+    {
+      "id": 4,
+      "firstName": "Bob",
+      "lastName": "Wilson",
+      "enrollmentNumber": "ENR004",
+      "registrationNumber": "REG004",
+      "coursePurchased": 4,
+      "totalFees": 1500,
+      "registrationDate": "2023-09-18",
+      "fees": 750,
+      "companyName": "Learning Solutions",
+      "enrollmentDate": "2023-09-23"
+    },
+    {
+      "id": 5,
+      "firstName": "Eva",
+      "lastName": "Brown",
+      "enrollmentNumber": "ENR005",
+      "registrationNumber": "REG005",
+      "coursePurchased": 5,
+      "totalFees": 900,
+      "registrationDate": "2023-09-19",
+      "fees": 450,
+      "companyName": "Tech Institute",
+      "enrollmentDate": "2023-09-24"
+    }
+  ]
 }
